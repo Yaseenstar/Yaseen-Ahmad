@@ -1,49 +1,104 @@
+#   Yaseen Ahmad 
 
-# Hi, I'm Yaseen Ahmad 👋
+#    Flutter Developer · Mobile App Developer
 
-###Flutter Developer | Dart | Firebase | SQLite | REST APIs | Mobile App Development
 
-I'm a passionate **Flutter Developer** focused on building practical, user-friendly, and responsive mobile applications.
 
-I enjoy developing mobile apps and continuously improving my skills in **Flutter, Dart, Firebase, REST APIs, and software development**.
 
-### 🚀 Skills
 
-* **Language:** Dart
-* **Mobile Development:** Flutter
-* **Backend & Services:** Firebase, REST APIs
-* **Data:** JSON, SQLite
-* **Tools:** Git, GitHub, VS Code, Android Studio
-* **Concepts:** OOP, API Integration, UI Development
 
-### 📱 Featured Project
 
-**Weather Application**
 
-* Built with Flutter and Dart
-* Integrated Weather API
-* Displays temperature, humidity, wind speed, and weather conditions
-* Designed with a lightweight and user-friendly interface
+---
 
-### 🎯 Currently Learning
+I build **mobile applications with Flutter**, focusing on responsive UI, API integration, local data storage, and practical mobile solutions.
+
+I enjoy learning new technologies and continuously improving my skills in **Flutter, Dart, Firebase, REST APIs, SQLite, and software development**.
+
+---
+
+## 🚀 What I Build
+
+| Project                                                                  | Stack                                  | Description                                                                                                             |
+| ------------------------------------------------------------------------ | -------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| [Weather Application](https://github.com/Yaseenstar/Weather-Application) | Flutter · Riverpod · REST API · SQLite | Weather application with live weather data, location support, offline caching, notifications, and AI weather assistance |
+| Quiz App                                                                 | Flutter · Dart                         | Interactive quiz application with question and answer functionality                                                     |
+| Weather App                                                              | Flutter · REST API                     | Weather application displaying real-time weather information                                                            |
+
+---
+
+## 🛠️ Tech Stack
+
+```text
+Mobile Development → Flutter, Dart
+State Management   → Riverpod
+Backend & Services → Firebase
+Database            → SQLite
+Networking          → REST APIs, HTTP, JSON
+Programming         → OOP, Dart
+Tools               → Git, GitHub, VS Code, Android Studio
+```
+
+---
+
+## 📱 Featured Project
+
+### 🌤️ Weather Application
+
+A Flutter weather application designed to provide useful weather information with a simple and user-friendly interface.
+
+**Features:**
+
+* 🌍 Location-based weather
+* 🔎 City search
+* 🌡️ Temperature information
+* 💧 Humidity and wind information
+* 🕐 Hourly weather forecast
+* 📅 Weekly forecast
+* 💾 Offline weather caching
+* 🔔 Weather notifications
+* 🤖 AI weather assistant
+* 🗄️ SQLite local database
+* 🔄 REST API integration
+
+**Repository:**
+[Weather Application](https://github.com/Yaseenstar/Weather-Application)
+
+---
+
+## 📚 Currently Learning
 
 * Advanced Flutter
+* Dart
 * Firebase
 * REST API Integration
+* Riverpod State Management
+* SQLite
 * Clean Architecture
-* State Management
 * Professional Software Development
 
-### 💼 Career Goal
+---
 
-My goal is to grow as a **professional Flutter Developer**, work on real-world applications, and build high-quality mobile experiences.
+## 🎯 Career Goal
 
-### 📫 Connect With Me
+My goal is to become a **professional Flutter Developer**, contribute to real-world mobile applications, and continuously improve my software development skills.
 
-**LinkedIn:** yaseen-ahmad-88039a38a
+I am currently **open to Flutter Developer internships and junior opportunities**.
+
+---
+
+## 📊 GitHub
+
+---
+
+## 🤝 Connect With Me
+
+💼 **LinkedIn:** [Yaseen Ahmad](https://www.linkedin.com/in/yaseen-ahmad-88039a38/)
+
+🐙 **GitHub:** [Yaseenstar](https://github.com/Yaseenstar)
+
+📱 **Open to:** Flutter Developer Internships · Junior Flutter Developer Roles
 
 ---
 
 ⭐ Feel free to explore my repositories and projects.
-
-Flutter Developer | Mobile App Development | Dart | Firebase
