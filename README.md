@@ -97,7 +97,7 @@ I am currently **open to Flutter Developer internships and junior opportunities*
 
 🐙 **GitHub:** [Yaseenstar](https://github.com/Yaseenstar)
 
-📱 **Open to:** Flutter Developer Internships · Junior Flutter Developer Roles
+📱 **Open to:** Flutter Developer Internships · Junior Flutter Developer Roles .
 
 ---
 
