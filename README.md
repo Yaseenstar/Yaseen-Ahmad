@@ -83,7 +83,7 @@ A Flutter weather application designed to provide useful weather information wit
 
 My goal is to become a **professional Flutter Developer**, contribute to real-world mobile applications, and continuously improve my software development skills.
 
-I am currently **open to Flutter Developer internships and junior opportunities**....
+I am currently **Open to Flutter Developer internships and junior opportunities**....
 
 ---
 
